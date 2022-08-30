@@ -1,0 +1,6 @@
+2022-02-24 12:32:30,014 --Run Successfully - JiraID:run_Enable_PreRenaming.py  DocType: Urla  Folders: 6  Pages: 7
+2022-02-24 12:34:00,199 --Run Successfully - JiraID:run_Enable_PreRenaming.py  DocType: Urla  Folders: 6  Pages: 7
+2022-02-24 12:35:25,340 --Run Successfully - JiraID:ADS-1111  DocType: Urla  Folders: 6  Pages: 7
+2022-02-24 12:38:01,015 --run_Enable_PreRenaming.pyRun Successfully - JiraID:ADS-1111  DocType: Urla  Folders: 6  Pages: 7
+2022-02-24 12:38:46,204 --run_Enable_PreRenaming.py Run Successfully - JiraID: ADS-1111  DocType: Urla  Folders: 6  Pages: 7
+2022-02-24 13:50:03,850 --run_Enable_PreRenaming.py Run Successfully - JiraID: ADS-1467  DocType: URLA  Folders: 0  Pages: 0
